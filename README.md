@@ -59,5 +59,5 @@ L'application s'ouvre automatiquement dans le navigateur à l'adresse `http://lo
 
 ## 👤 Auteur
 
-**Nazifou Afolabi** — Data Analyst / BI Analyst Junior
+**Nazifou Afolabi** : Data Analyst / BI Analyst Junior
 [LinkedIn](https://www.linkedin.com/in/nazifou-afolabi-analyst-data/) · [GitHub](https://github.com/nazif96)
