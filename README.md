@@ -23,14 +23,14 @@ Le dashboard fusionne deux jeux de données :
 
 Le dashboard est organisé en 8 onglets :
 
-1. **Vue d'ensemble** — KPIs clés (total des ventes, vente moyenne, total et moyenne de clients) + export des données filtrées en CSV
-2. **Ventes au fil du temps** — évolution des ventes quotidiennes et mensuelles
-3. **Analyse par type & assortiment** — ventes agrégées par type de magasin et par niveau d'assortiment
-4. **Promotions & jours fériés** — impact des promotions et des jours fériés sur les ventes
-5. **Distance à la compétition** — distribution de la distance des magasins à la concurrence
-6. **Analyse des clients** — évolution du nombre de clients dans le temps et par magasin
-7. **Corrélations** — matrice de corrélation entre ventes, clients, distance à la concurrence, promotions et week-end
-8. **Aperçu des données** — visualisation brute des données filtrées
+1. **Vue d'ensemble** : KPIs clés (total des ventes, vente moyenne, total et moyenne de clients) + export des données filtrées en CSV
+2. **Ventes au fil du temps** : évolution des ventes quotidiennes et mensuelles
+3. **Analyse par type & assortiment** : ventes agrégées par type de magasin et par niveau d'assortiment
+4. **Promotions & jours fériés** : impact des promotions et des jours fériés sur les ventes
+5. **Distance à la compétition** : distribution de la distance des magasins à la concurrence
+6. **Analyse des clients** : évolution du nombre de clients dans le temps et par magasin
+7. **Corrélations** : matrice de corrélation entre ventes, clients, distance à la concurrence, promotions et week-end
+8. **Aperçu des données** : visualisation brute des données filtrées
 
 ### Filtres dynamiques (barre latérale)
 - Magasin(s)
@@ -41,8 +41,8 @@ Le dashboard est organisé en 8 onglets :
 ## 🛠️ Stack technique
 
 - **Python** (Pandas)
-- **Streamlit** — interface web interactive
-- **Plotly Express** — visualisations dynamiques
+- **Streamlit** —> interface web interactive
+- **Plotly Express** —> visualisations dynamiques
 
 ## 🚀 Lancer le projet en local
 
@@ -60,4 +60,4 @@ L'application s'ouvre automatiquement dans le navigateur à l'adresse `http://lo
 ## 👤 Auteur
 
 **Nazifou Afolabi** — Data Analyst / BI Analyst Junior
-[LinkedIn](#) · [GitHub](https://github.com/nazif96)
+[LinkedIn](https://www.linkedin.com/in/nazifou-afolabi-analyst-data/) · [GitHub](https://github.com/nazif96)
